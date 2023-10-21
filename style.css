@@ -1,0 +1,13 @@
+.main-div{
+    margin: auto;
+    width: 50%;
+    height: 50vh;
+    border: 1px solid cyan;
+}
+.first-coloumn{
+    width: 80%;
+    height: 20%;
+    margin: auto;
+    margin-top: 3em;
+    border: 1px solid green
+}
