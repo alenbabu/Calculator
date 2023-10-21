@@ -8,6 +8,15 @@
     width: 80%;
     height: 20%;
     margin: auto;
+    display: flex;
     margin-top: 3em;
     border: 1px solid green
+}
+.num{
+    width: 20%;
+    height: 20%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black ;
+    display: inline-block;
 }
