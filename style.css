@@ -1,15 +1,24 @@
+body{
+    margin: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,31,1) 35%, rgba(0,212,255,1) 100%);
+}
 .main-div{
     margin: auto;
     width: 50%;
     height: 50vh;
     border: 1px solid cyan;
 }
-.first-coloumn{
+h1{
+    text-align: center;
+    color: yellow;
+}
+.coloumn{
     width: 80%;
     height: 20%;
     margin: auto;
+    margin-top: 2em;
     display: flex;
-    margin-top: 3em;
     border: 1px solid green
 }
 .num{
@@ -18,6 +27,10 @@
     margin: auto;
     cursor: pointer;
     text-align: center;
+    color: yellow;
+    font-weight: bolder;
+    padding: 1em;
+    font-size: large;
     border: 1px solid black ;
-    display: inline-block;
+
 }
