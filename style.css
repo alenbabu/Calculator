@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.screen{
+#screen{
     width: 65%;
     height: 6vh;
     margin-top: 10px;
